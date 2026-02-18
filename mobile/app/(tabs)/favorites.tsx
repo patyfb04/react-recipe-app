@@ -1,12 +1,12 @@
 import { View, Text } from "react-native";
 import React, { useState } from "react";
 
-const HomeScreen = () => {
+const FavoritesScreen = () => {
   return (
     <View>
-      <Text>AAAAAAAAA</Text>
+      <Text>Favorites Screen</Text>
     </View>
   );
 };
 
-export default HomeScreen;
+export default FavoritesScreen;

@@ -1,12 +1,12 @@
 import { View, Text } from "react-native";
 import React, { useState } from "react";
 
-const HomeScreen = () => {
+const SearchScreen = () => {
   return (
     <View>
-      <Text>AAAAAAAAA</Text>
+      <Text>Search Screen</Text>
     </View>
   );
 };
 
-export default HomeScreen;
+export default SearchScreen;
